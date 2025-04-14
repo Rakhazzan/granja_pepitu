@@ -1,0 +1,7 @@
+{
+  "name": "granja_pepitu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
